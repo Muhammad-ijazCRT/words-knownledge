@@ -1,0 +1,167 @@
+codegrepper (All languages libraries and code):
+https://www.codegrepper.com/index.php
+
+___________________________________________________________________________________________________________
+Data science and machine learning:
+
+sklearn:
+https://scikit-learn.org/stable/
+
+TenserFlow:
+https://www.tensorflow.org/api_docs/python/tf
+
+
+Code Basic data science playlist
+
+
+complete (cleabning, exploriing)
+=> PlayingNumbers
+=> https://github.com/PlayingNumbers/fundamentals
+
+
+DS commmon_functions:
+1) https://github.com/PlayingNumbers/data_science_starter/blob/master/ds_common_functions.py
+2) https://github.com/PlayingNumbers/fundamentals
+
+
+Remove outliers:
+1) https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+
+
+complete_over_view_of_Machine_learning:
+1) https://www.datasciencenovice.com/2020/10/how-to-prepare-data-machine-learning.html?m=1
+
+
+common youtube channels:
+1) codebase
+2) saima accadmy
+3) 
+
+___________________________________________________________________________________________________________
+
+Web development: [ yahoo baba Youtube chenals ]
+
+Django:
+https://docs.djangoproject.com/en/3.2/
+
+Django geeks show:
+https://www.youtube.com/watch?v=sccLfQ4_u10&list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6&ab_channel=GeekyShows
+
+
+django eCommerce Website playlist:
+https://www.youtube.com/watch?v=APESx65wpBc&list=PLdBwVRHjcI__NWxctXUSLz1Gg2Mb-B-O-&ab_channel=FeelFreeToCode
+
+
+jinja templating:
+https://jinja.palletsprojects.com/en/3.0.x/
+
+_________________________________
+JavaScrip w3School:
+https://www.w3schools.com/jsref/met_html_click.asp
+
+
+Data Visualization 
+https://www.chartjs.org/
+
+
+BEST (Data Visualization):
+https://developers.google.com/chart
+
+firebase (webs with google analysitics):
+https://firebase.google.com/
+
+d3js :
+https://d3js.org/
+
+
+Advance JavaScript geeky show platlist:
+https://www.youtube.com/watch?v=9vpvFQrv95o&list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI&index=4&ab_channel=GeekyShows
+
+
+Best website js animations with theoritical concepts:
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+
+
+Animations playlist in javascript:
+https://www.youtube.com/playlist?list=PLDyQo7g0_nsXEOxGlAgccV8fu-cHZnI5B
+
+javaScript 50 projects in 50 days:
+https://github.com/bradtraversy/50projects50days
+
+jquarry isotopes filter: [iamges and category filter on frond ent]
+https://isotope.metafizzy.co/
+
+
+
+
+__________________________________________________________________________________________
+Bootstrape
+website parts can copy from here:
+https://www.tutorialrepublic.com/snippets/gallery.php
+
+_______________________________
+HTML &  Css:
+
+HTML W3shool:
+https://www.w3schools.com/html/html_form_attributes.asp
+
+
+css W3shool:
+https://www.w3schools.com/css/css_pseudo_classes.asp
+
+
+tailwindcss
+https://tailwindcss.com/
+
+
+aminmations uin html (AOS):
+https://michalsnik.github.io/aos/
+____________________________________
+
+colors { web safe colors } :
+https://websafecolors.info/color-chart
+
+color picker extention:
+ColorZilla
+
+
+clip-ship of images:
+https://bennettfeely.com/clippy/
+
+
+font awsome:
+email:ijazkhanq333@gmail.com
+pass: ijazkhan@123
+<script src="https://kit.fontawesome.com/2f106d1878.js" crossorigin="anonymous"></script>
+
+images:
+https://unsplash.com/
+
+icons: iconfinder.com
+https://www.iconfinder.com/
+
+html symbols:
+https://www.toptal.com/designers/htmlarrows/symbols/
+
+_____________________________________________
+code templates:
+best qauuary.com [complete css and templates]
+http://www.bestjquery.com/
+
+
+
+________________________________________________________________________________________________________________
+Amazon:
+
+google Trand:
+https://trends.google.com/trends/?geo=PK
+
+
+______________________________________________________________________________
+
+Upwork:
+create catalog (gig):
+https://www.upwork.com/nx/project-dashboard/
+
+
+

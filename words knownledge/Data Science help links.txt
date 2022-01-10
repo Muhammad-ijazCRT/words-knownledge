@@ -1,0 +1,24 @@
+
+complete (cleabning, exploriing)
+=> PlayingNumbers
+=> https://github.com/PlayingNumbers/fundamentals
+
+
+DS commmon_functions:
+1) https://github.com/PlayingNumbers/data_science_starter/blob/master/ds_common_functions.py
+2) https://github.com/PlayingNumbers/fundamentals
+
+
+Remove outliers:
+1) https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+
+
+complete_over_view_of_Machine_learning:
+1) https://www.datasciencenovice.com/2020/10/how-to-prepare-data-machine-learning.html?m=1
+
+
+
+common youtube channels:
+1) codebase
+2) saima accadmy
+3) 

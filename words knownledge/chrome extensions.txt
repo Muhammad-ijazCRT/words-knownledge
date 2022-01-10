@@ -1,0 +1,56 @@
+1) gramerly
+colorzilla
+chrome auto reffresh
+blockadds
+unhook youtube (Remove YouTube Recommended)
+
+
+skelarn
+https://scikit-learn.org/stable/
+
+tenserflow
+
+google trand checker
+https://trends.google.com/trends/?geo=PK
+
+youtube django geeks show
+https://www.youtube.com/watch?v=sccLfQ4_u10&list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6&ab_channel=GeekyShows
+
+
+jinja templates:
+https://jinja.palletsprojects.com/en/3.0.x/
+
+django ecoomerce:
+https://www.youtube.com/watch?v=APESx65wpBc&list=PLdBwVRHjcI__NWxctXUSLz1Gg2Mb-B-O-&ab_channel=FeelFreeToCode
+
+code basic (ML)
+https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
+
+
+tailwindcss:
+https://tailwindcss.com/
+
+django documnets:
+https://docs.djangoproject.com/en/3.2/
+
+css:
+https://www.w3schools.com/jsref/met_html_click.asp
+
+geeks show (advance javascript)
+https://www.youtube.com/watch?v=9vpvFQrv95o&list=PLbGui_ZYuhihZ-pDxNZuQ7xOQ8IS2z3XI&index=4&ab_channel=GeekyShows
+
+js chart
+https://www.chartjs.org/docs/latest/
+
+websafe color:
+https://websafecolors.info/color-chart
+
+unsplash:
+https://unsplash.com/
+
+html templates:
+https://www.toptal.com/designers/htmlarrows/symbols/
+
+bootstrap:
+https://getbootstrap.com/
+

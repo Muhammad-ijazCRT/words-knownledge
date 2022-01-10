@@ -1,0 +1,21 @@
+Helpful Resources:
+- Awesome ReadMe: https://github.com/matiassingers/awes...
+- Banner Maker: https://banner.godori.dev
+- Shields.io: http://shields.io
+- Carbon: https://carbon.now.sh
+
+Cheat Sheets:
+- Markdown Guide: https://www.markdownguide.org/cheat-s...
+- Markdown Cheatsheet: https://guides.github.com/pdfs/markdo...
+
+Markdown Editors:
+- Dillinger.io: https://dillinger.io
+- Editor.md: https://pandao.github.io/editor.md/en...
+- Make A Readme: https://www.makeareadme.com
+
+Mentioned Projects:
+- Joe: https://github.com/karan/joe
+- Stronghold: https://github.com/alichtman/stronghold
+- Markdownify: https://github.com/amitmerchant1990/e...
+- Clairvoyant: https://github.com/anfederico/clairvo...
+- Colorls: https://github.com/athityakumar/colorls

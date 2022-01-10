@@ -1,0 +1,4 @@
+=> To clear cache of laravel:
+php artisan config:cache
+php artisan cache:clear 
+php artisan migrate

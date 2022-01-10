@@ -1,0 +1,11 @@
+=> WooCommerce Analytics "Stock" Reports 
+
+plugins:
+contact form 7 
+contact form mail chaimp
+font awsome typography
+woosidebars
+whishlist
+mailchip woocommerce
+
+jetpack => automatic texes on product shiping 
